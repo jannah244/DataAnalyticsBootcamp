@@ -6,7 +6,7 @@ In my Superstore Analysis project, I embarked on a journey of data analytics by 
 
 # Final Year Project (Student Performance Report)
 
-This project focuses on analyzing and presenting the performance of male and female students. The report delves into math, reading, and writing scores to provide insights into gender-based differences in academic performance.
+This project was done by me and presented to my instructor. This focus on analyzing and presenting the performance of male and female students. The report delves into math, reading, and writing scores to provide insights into gender-based differences in academic performance.
 
 Dataset: Student Performance Prediction Data Set (Kaggle)
 
